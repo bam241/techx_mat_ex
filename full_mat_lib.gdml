@@ -6397,7 +6397,6 @@
 
 <element name="mat486_Helium" >
   <fraction ref="He3" n="1" />
-  <fraction ref="He4" n="0" />
 </element>
 <material name="pyne::He-3 proportional gas" formula="pyne::He-3 proportional gas" >
   <D value="0.000125" />
@@ -7150,11 +7149,9 @@
 
 <element name="mat522_Lithium" >
   <fraction ref="Li6" n="1" />
-  <fraction ref="Li7" n="0" />
 </element>
 <element name="mat522_Boron" >
   <fraction ref="B10" n="1" />
-  <fraction ref="B11" n="0" />
 </element>
 <element name="mat522_Oxygen" >
   <fraction ref="O16" n="0.99729" />
@@ -11844,7 +11841,6 @@
 <element name="mat725_Uranium" >
   <fraction ref="U234" n="5e-06" />
   <fraction ref="U235" n="0.0025" />
-  <fraction ref="U236" n="0" />
   <fraction ref="U238" n="0.997495" />
 </element>
 <material name="pyne::Uranium, Depleted, Typical" formula="pyne::Uranium, Depleted, Typical" >
@@ -11856,7 +11852,6 @@
 <element name="mat726_Uranium" >
   <fraction ref="U234" n="0.000305" />
   <fraction ref="U235" n="0.0296" />
-  <fraction ref="U236" n="0" />
   <fraction ref="U238" n="0.970095" />
 </element>
 <material name="pyne::Uranium, Enriched, Typical Commercial" formula="pyne::Uranium, Enriched, Typical Commercial" >
@@ -11916,7 +11911,6 @@
 <element name="mat731_Uranium" >
   <fraction ref="U234" n="5.7e-05" />
   <fraction ref="U235" n="0.007204" />
-  <fraction ref="U236" n="0" />
   <fraction ref="U238" n="0.992739" />
 </element>
 <material name="pyne::Uranium, Natural (NU)" formula="pyne::Uranium, Natural (NU)" >
@@ -11933,7 +11927,6 @@
 <element name="mat732_Uranium" >
   <fraction ref="U234" n="1.18998e-05" />
   <fraction ref="U235" n="0.00250016" />
-  <fraction ref="U236" n="0" />
   <fraction ref="U238" n="0.997488" />
 </element>
 <element name="mat732_Plutonium" >
@@ -12078,7 +12071,6 @@
 
 
 <element name="mat739_Hydrogen" >
-  <fraction ref="H1" n="0" />
   <fraction ref="H2" n="1" />
 </element>
 <element name="mat739_Oxygen" >
